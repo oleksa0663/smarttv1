@@ -31,7 +31,9 @@ http://45.94.219.9:8081/stream/test130/hls/playlist.m3u8
 #EXTINF:-1,Комедия
 http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
 #EXTINF:-1,Кинокомедия
-https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8 
+
+
 #EXTINF:-1,КИНО-1 INTERNATIONAL
 https://autopilot.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1,CC TV

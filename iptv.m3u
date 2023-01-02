@@ -1,152 +1,76 @@
 #EXTM3U
-#EXTINF:-1,Квартал ТВ 
-http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1,Мир   
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
-#EXTINF:-1,,Мир Белогорья
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com#EXTINF:-1,НТВ 
-http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ
-http://iptv.ktkru.ru:8004/index.m3u8
-#EXTINF:-1,НТВ Сериал  
-http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
-#EXTINF:-1,НТВ хит
-http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
-#EXTINF:-1,НТВ Правда
-http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
-#EXTINF:-1,МИР сериал  
-http://178.163.45.148:81/udp/234.0.0.103:2000==
-#EXTINF:-1,Русский детектив
-http://45.94.219.9:8081/stream/test105/hls/playlist.m3u8
-#EXTINF:-1,Русский Детектив
-http://mfe02.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
-#EXTINF:-1,Дом кино
-https://sc.id-tv.kz:443/DomKino_36_37.m3u8
-#EXTINF:-1 group-title="KINO+",Дом Кино
-https://sc.id-tv.kz:443/DomKino_36_37.m3u8
-#EXTINF:-1,Золотая коллекция
-http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
-#EXTINF:-1,Русская комедия
-http://45.94.219.9:8081/stream/test130/hls/playlist.m3u8
-#EXTINF:-1,Комедия
-http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
-#EXTINF:-1,Кинокомедия
-https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
-#EXTINF:-1,КИНО-1 INTERNATIONAL
-https://autopilot.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1,CC TV
-http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:-1,Русский иллюзион
-https://sc.id-tv.kz/RusIlluzion_34_35.m3u8
-#EXTINF:-1,Русский Иллюзион
-http://86.57.178.105:10823
-#EXTINF:-1,Иллюзион+ R
-http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
-#EXTINF:-1 ,Звезда
-http://iptv.ktkru.ru:8017/index.m3u8
-#EXTINF:-1,СТС
-http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
-#EXTINF:-1,СТС LOVE   
-http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
-#EXTINF:-1,Сарафан       
-http://45.94.219.9:8081/stream/test84/hls/playlist.m3u8
-#EXTINF:-1,РЕН ТВ  --
-https://mhd116.iptv2022.com/p/LpSVIGMnBR3nDPA0FOX0Eg,1662910271/streaming/rentvott/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1,ТВ3 
-http://flu.ttk.mx:9090/TV_3/index.m3u8?token=orh6o
-#EXTINF:-1 ,Пятница!  
-http://iptv.ktkru.ru:8016/index.m3u8
-#EXTINF:-1 ,Домашний
-http://iptv.ktkru.ru:8014/index.m3u8
-#EXTINF:-1,Домашний
-http://45.94.219.9:8081/stream/test118/hls/playlist.m3u8
-#EXTINF:-1,Иллюзион +
-https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
-#EXTINF:-1,ТНТ4 International
-https://sc.id-tv.kz:443/tnt4_34_35.m3u8
-#EXTINF:-1,ТНТ  
-https://mhd116.iptv2022.com/p/ENsC3b_VMJLCDLxVoMt8ig,1662910271/streaming/tntott/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1,Наше любимое кино
-http://45.94.219.9:8081/stream/test109/hls/playlist.m3u8
-#EXTINF:-1,Кинопремьера FHD
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1,Киноклуб
-http://autopilot.catcast.tv/content/39005/index.m3u8
-#EXTINF:-1,Еврокино HD
-http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
-#EXTINF:-1,VIP Comedy HD
-https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,2х2
-https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
-#EXTINF:-1,Рыбалка и охота
-https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8?token=iptv.org.ua
-#EXTINF:-1,Кинохит iptv.org.ua
-http://flu.ttk.mx:9090/kinohit/index.m3u8?token=orh6o
-#EXTINF:-1,TV 1000 Action
-http://flu.ttk.mx:9090/TV1000_Action/index.m3u8?token=orh6
-#EXTINF:-1,Доку HD
-https://edge-01.kino.watch/docu/index.m3u8
-#EXTINF:-1,Trash HD
-https://livetv.mylifeisgood.ml/channels/trash
-#EXTINF:-1,VIP Megahit HD
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,VIP Premiere HD
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,VIP Serial HD
-https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,Свежаки HD
-#EXTGRP:Кино
-https://edge-01.kino.watch/fresh/index.m3u8
-#EXTINF:-1,Уже видел(Хит) HD
-https://edge-01.kino.watch/hit/index.m3u8
-#EXTINF:-1,Fox HD
-https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
-#EXTINF:-1,Синема Классик TV
-http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:-1,KINO 18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1,Индийское кино
-https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
-#EXTINF:-1,Мужское Кино HD
-https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
-#EXTINF:-1,Родное Кино
-https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
-#EXTINF:-1,Cinema
-https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1,новый====================================
-#EXTINF:-1,НТВ
-http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,НТВ Сериал
-http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
-#EXTINF:-1,НТВ Хит
-http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
-#EXTINF:-1,Фантастика Sci-Fi
-https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1,Пятница
-http://45.94.219.9:8081/stream/test40/hls/playlist.m3u8
-#EXTINF:-1,Память SSSR
-https://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1,Детский мир
-http://mfe02.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
-#EXTINF:-1,Кинокомедия HD
-http://46.174.83.66/Kinokomedia/video.m3u8
-#EXTINF:-1,Кинокомедия tva
-http://194.113.234.110:4179
-#EXTINF:-1,Иллюзион+ kaz
-https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
-#EXTINF:-1,Комедия
-http://flu.ttk.mx:9090/Kome
-#EXTINF:-1,Лучшие моменты ЛЧ
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1,Лучшие моменты ЛЧ
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1,Телеканал High TV
-https://v2.catcast.tv/content/270/index.m3u8
-#EXTINF:-1,Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1,Wrestling TV онлайн
-http://163.172.186.160:8082/m1Tz/live/wwe_ru.m3u8
-http://163.172.186.160:8082/m1Tz/live/wwe_ru.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMiA4OjAzOjQyIEFNJmhhc2hfdmFsdWU9cFVhT3oydEhQUHkvajVjSEcrckVXdz09JnZhbGlkbWludXRlcz0xODAmaXA9MTk0LjM2LjgwLjY4JmNoZWNraXA9dHJ1ZQ==
-#EXTINF:-1,Wrestling
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
-u8
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 , ТВA 
+https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
+#EXTINF:-1 group-title="KINO ZAL",ВСЕ ТВ 13.12.22 iptv.org.ua
+https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
+#EXTINF:-1 group-title="KINO ZAL",+++
+https://youtu.be/oF_KF1aXwP8
+#EXTINF:-1 group-title="KINO ZAL", Лютер
+https://bk2-hls.kinokrad.co/hls/Luter.2003.HDRip/playlist.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Карантин - 19 2022
+https://hye1eaipby4w.takedwn.ws/08_09_22/08/09/00/XBA5UNM5/5TNOWAST.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Киллергерц 2022г
+https://hye1eaipby4w.takedwn.ws/09_23_22/09/23/23/TPP3YL5Y/2ELFDDFD.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Последний клиент 2022 триллер
+https://hls.kinokrad.cc/hls/Klienten.2022.D.WEB-DLRip.14OOMB/playlist.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Белый слон 2022
+https://hye1eaipby4w.takedwn.ws/06_04_22/06/04/13/AFO2BZBW/LONR3K5U.mp4/index-a1-v1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Бёрди 2022
+https://hye1eaipby4w.takedwn.ws/07_29_22/07/29/00/VJTPJTD4/G3IG7DDU.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Кинг Конг 2005
+https://hye1eaipby4w.takedwn.ws/08_27_21/08/27/01/63DJFW4K/6SO3NHNQ.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Исчезнувший 2021
+https://hls-hd.kinokrad.co/hlshd/Ischeznuvshiy.2021.WEB-DLRip.ELEKTRI4KA.UNIONGANG.720p/playlist.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Телохранитель 2022
+https://hye1eaipby4w.takedwn.ws/05_08_22/05/08/23/K6TS4I44/ZJDYUWRT.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",2012 2009
+https://hye1eaipby4w.takedwn.ws/07_21_20/07/21/16/EYTVOKFX/ZJQJVST5.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Взаперти 2022
+https://hye1eaipby4w.takedwn.ws/05_11_22/05/11/14/K3A7LDTD/42WUEJCG.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Трансформеры 2007
+https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/10/M6C4GGWO/2OSIXJRI.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Трансформеры 2 2009
+https://hye1eaipby4w.takedwn.ws/05_14_21/05/14/22/H6Q3XKS3/MRFTDVP3.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Трансформеры 3 2011
+https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/07/WULDHMII/U2SVIWOB.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Трансформеры 4 2014
+https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/10/XPPAK23W/DRDGFDQ6.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Трансформеры Последний рыцарь 2017
+https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/12/MDZKJFIJ/LDDEYSOQ.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Финч /Finch 2021
+http://kinoteatr.kg/video3/Filmu/7Finch.2021.mp4
+#EXTINF:-1 group-title="KINO ZAL",Кодекс киллера/The Protégé
+http://kinoteatr.kg/video3/Filmu/7Kodeks%20killera.2021.mp4
+#EXTINF:-1 group-title="KINO ZAL",Морской бой/Battleship 2012
+http://kinoteatr.kg/video/Filmu/=7Morskoy.Boy.2012.mp4
+#EXTINF:-1 group-title="KINO ZAL",Морской бой 60 FPS/Battleship
+http://kinoteatr.kg/video2/Filmu/7Battleship.2012.60fps.mp4
+#EXTINF:-1 group-title="KINO ZAL",Полицейская академия 1
+https://v2.catcast.tv/videos/ch38847/240920201526_51150/video.mp4
+#EXTINF:-1 group-title="KINO ZAL",Полицейская академия 3
+https://v2.catcast.tv/videos/ch38847/240920201531_51154/video.mp4
+#EXTINF:-1 group-title="KINO ZAL",Полицейская академия 4
+https://v2.catcast.tv/videos/ch38847/240920201534_51156/video.mp4
+#EXTINF:-1 group-title="KINO ZAL",Полицейская академия 5
+https://v2.catcast.tv/videos/ch38847/240920201537_51157/video.mp4
+#EXTINF:-1 group-title="KINO ZAL",Полицейская академия 6
+https://v2.catcast.tv/videos/ch38847/240920201545_51158/video.mp4
+#EXTINF:-1 group-title="KINO ZAL",Полицейская академия 7
+https://v2.catcast.tv/videos/ch38847/240920201559_51165/video.mp4
+#EXTINF:-1 group-title="KINO ZAL",Киллер-хранитель 2022
+https://hls.kinokrad.cc/hls/Killer.hranitel.2022.WEB-DLRip/playlist.m3u8
+#EXTINF:-1 group-title="KINO ZAL",13 район 2005
+https://bk2-hls.kinoprofi.vip/hls/13-y-rayon-2004_HDRip/playlist.m3u8
+#EXTINF:-1 group-title="KINO ZAL",13 район 2009 Ультиматум
+https://bk2-hls.kinoprofi.vip/hls/Banlieue13-Ultimatum.2009hd/playlist.m3u8
+#EXTINF:-1 group-title="KINO ZAL",13 район 2014 Кирпичные особняки
+https://bk2-hls.kinoprofi.vip/hls/13.raion.Kirpichnye.osobnyaki.2014.BDRipRUS/playlist.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Годзилла Возрождение 2016
+https://hye1eaipby4w.takedwn.ws/01_16_19/01/16/21/gqacx1Jm/1080_pSmm6JqH.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Патруль по законам улиц 
+https://kinotv.net/uploads/files/2021-03/1615987176_patrul-po-zakonam-ulic-2020-kinotv_net.mp4
+#EXTINF:-1 group-title="KINO ZAL",Зведные Войны Последние джедаи 2017
+https://ab.takedwn.ws/04_23_20/04/23/07/S47LD72B/52L53FRG.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="KINO ZAL",Зведные Войны_Эпизод 9 Скайуокер_Восход 2019
+https://hye1eaipby4w.takedwn.ws/05_14_21/05/14/18/WUGDN6AB/B2Y7TYNJ.mp4/index-v1-a1.m3u8
